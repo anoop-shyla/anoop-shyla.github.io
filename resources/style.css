@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+.heading{
+ font-family: Verdana;
+ font-weight: normal;
+ font-size: 50px;
+ color: white;
+ text-align: center;   
+}
+.ext-link{
+ color: aquamarine;
+ font-size: 16px;   
+}
+.second{
+    font-family: verdana;
+    font-weight: 300;
+    font-size: 40px;
+}
+.explan{
+    font-family: verdana;
+    font-size: 21px;
+    color: gray;
+}
